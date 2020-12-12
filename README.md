@@ -6,3 +6,14 @@ They can be used in two separate problems, on using each, or in the same problem
 
 Please select a problem/problems that are managable with regards to successful implementation.
 When submitting your repository, please edit this readMe file to clearly describe the applications you have designed and mention what patterns you have chosen to you for them.
+
+-----------------------------------------------------------------------------------------------
+1)  Solution with Observer Pattern:
+
+In this scenario, there is a Wholesaler named Binghamton Wholesale.They are having trouble in their communication with the shops which they sell their stationary goods.They are sending emails for the price changes for all of their products to ALL LINKED SHOPS.For example you are the Owner of ShopA and you are buying rubber erasers and squared notebook from Binghamton WholesaleBut you receive emails for the price changes in every product of Binghamton Wholesale, It is disturbing(spamming basically). As a team, we designed a solution using Observer Pattern. With this code, Binghamton Wholesale can send price updates to a specific shop about the products associated with it.
+
+2)Solution with Strategy Pattern:
+
+This scenerio came up to our mind while we were thinking basic things in our life that might have Stratagy pattern. We realised that washing machine has lots of different stratagies to clean dishes so we tried to implement stratagy pattern to a dishwashing case. There is a dishwasher that has 3 different stratagies to wash the dishes and all has different ways of washing the dishes. 
+
+
